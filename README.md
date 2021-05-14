@@ -23,7 +23,7 @@ $ bash instaboostup.sh
 
 ### Developed by
 
-Developer/Author: [chakradhar reddy](www.chakradharreddy.me)
+Developer/Author: [chakradhar reddy](https://www.chakradharreddy.me/)
 
 
 -------------------------------------------------------------------------------------
